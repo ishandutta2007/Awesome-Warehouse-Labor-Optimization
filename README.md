@@ -14,41 +14,25 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
-- [SaaS/Hosted Platforms](#saas-products)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
 ## SaaS/Hosted Platforms
-- **[Easy Metrics](https://www.easymetrics.com/)**  
-  Cloud-based labor performance and cost-to-serve analytics platform that links warehouse activity data to productivity, costing, and client billing insights (especially useful for 3PLs).
 
-- **[Lucas Systems](https://www.lucasware.com/)**  
-  Voice-directed and labor management solutions focused on optimizing warehouse workflows, associate guidance, and productivity measurement.
-
-- **[Blue Yonder Warehouse Labor Management](https://blueyonder.com/)**  
-  Enterprise labor management system using engineered labor standards (ELS), real-time performance tracking, forecasting, and incentive programs tightly integrated with broader supply chain execution.
-
-- **[Manhattan Associates / Manhattan Active Labor Management](https://www.manh.com/)**  
-  Cloud-native labor management capabilities within Manhattan’s supply chain execution suite, supporting scheduling, productivity tracking, and resource optimization.
-
-- **[Körber](https://www.koerber-supplychain.com/)**  
-  Supply chain and warehouse software portfolio that includes labor management, performance monitoring, and optimization tools for distribution centers.
-
-- **[Logiwa](https://www.logiwa.com/)**  
-  Cloud WMS platform with labor and operational visibility features aimed at modern fulfillment and ecommerce warehouses.
-
-- **[Made4net](https://www.made4net.com/)**  
-  Configurable WMS and supply chain execution software that includes labor management, reporting, and automation controls.
-
-- **[Extensiv](https://www.extensiv.com/)**  
-  Fulfillment and warehouse platform offering operational and labor-related visibility for 3PLs and brands.
-
-- **[Hopstack](https://www.hopstack.io/)**  
-  Modern warehouse and fulfillment platform focused on operational efficiency, task management, and labor productivity insights.
-
-- **[Infios](https://www.infios.com/)**  
-  End-to-end execution suite (OMS/WMS/TMS) that incorporates labor management within broader warehouse and fulfillment workflows.
+| Platform | Core Capabilities | Starting Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Easy Metrics](https://www.easymetrics.com/)** | Cloud-based labor performance & cost-to-serve analytics connecting warehouse activity data with productivity standards, costing, and 3PL billing insights. | Starting at ~$1,500/month base SaaS tier (~$15–$30/active employee/month; fraction of traditional $250k+ on-prem LMS) | 14-day guided proof-of-concept (POC) sandbox trial (limited to sample shift dataset & single facility evaluation; no permanent free plan) |
+| **[Lucas Systems](https://www.lucasware.com/)** | Voice-directed execution (Jennifer™), AI dynamic work optimization, pick-path routing, and real-time associate labor tracking. | Starting at ~$2,500/month base SaaS tier (or ~$25,000 upfront facility deployment based on voice client license packs) | 30-day proof-of-value (POV) pilot program for qualified enterprise facilities (hands-on workflow evaluation; no permanent free plan) |
+| **[Blue Yonder Warehouse Labor Management](https://blueyonder.com/)** | Enterprise-grade labor management (formerly JDA LMS) with multi-variable engineered labor standards (ELS), shift forecasting, and incentive pay management. | Starting at ~$8,333/month (~$100,000/year entry enterprise license) plus implementation services | 30-day guided interactive sandbox / POC evaluation for qualified enterprise accounts (restricted to test environments; no permanent free plan) |
+| **[Manhattan Associates / Manhattan Active Labor Management](https://www.manh.com/)** | Cloud-native labor planning, continuous engineered standards, gamification, and task optimization integrated with Manhattan Active WMS/SCE. | Starting at ~$10,000/month (~$120,000/year base tier) scaled by associate headcount and annual facility order volume | 14-to-30-day structured virtual test environment / POC during sales qualification (scoped to simulated facility flows; no permanent free plan) |
+| **[Körber](https://www.koerber-supplychain.com/)** | K.Motion Labor Management System (LMS) & WMS suite with labor standards calculation, employee scorecards, and warehouse execution monitoring. | Starting at ~$2,500/month (~$30,000/year base SaaS subscription for mid-market distribution centers) | 30-day guided sandbox pilot deployment (limited to single facility workflow modeling; no permanent free plan) |
+| **[Logiwa](https://www.logiwa.com/)** | High-volume ecommerce & 3PL cloud WMS featuring labor productivity analytics, task interleaving, and pick/pack rate tracking. | Starting at ~$500/month base tier (volume-tiered by monthly order throughput) | 14-day guided test sandbox environment (capped at 500 test orders & demo SKU catalog; no permanent free plan) |
+| **[Made4net](https://www.made4net.com/)** | WarehouseExpert & LaborExpert supply chain suite featuring dynamic labor standards, task allocation, and real-time worker productivity dashboards. | Starting at ~$500/month (or ~$15,000/year entry software subscription for mid-tier warehouses) | 14-day assisted demo sandbox / interactive POC (limited to pre-configured test dataset; no permanent free plan) |
+| **[Extensiv](https://www.extensiv.com/)** | 3PL Warehouse Manager and Integration Manager offering labor tracking, billing automation, and fulfillment operational metrics. | Starting at $39/month for Integration Manager; $599/month starting tier for 3PL Warehouse Manager | 30-day free trial on Integration Manager (1st month free, capped at 100 orders/month); 14-day guided sandbox for 3PL Warehouse Manager |
+| **[Hopstack](https://www.hopstack.io/)** | Modern digital WMS platform with native labor productivity insights, real-time task management, and pick/pack workstation optimization. | Starting at $199/month (Ignite / Starter tier up to 50,000 units/month; Growth tier at $249/month up to 100,000 units/month) | 30-day free trial (full access to Hopstack Ignite features up to 5,000 test orders; no permanent free plan) |
+| **[Infios](https://www.infios.com/)** | End-to-end execution suite (OMS/WMS/TMS) that incorporates labor management and workforce tracking within broader warehouse and fulfillment workflows. | Starting at ~$3,500/month (~$42,000/year entry tier) scaled based on facility count and transaction volume | 30-day structured proof-of-concept / sandbox evaluation (limited to staging environment; no permanent free plan) |
 
 ## Open-Source GitHub Projects
 - **[Odoo / OCA WMS modules](https://github.com/OCA/wms)**  
