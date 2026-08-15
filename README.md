@@ -1,6 +1,6 @@
 # Awesome-Warehouse-Labor-Optimization
 
-# Top Warehouse Labor Optimization Platforms Ecosystem
+## Top Warehouse Labor Optimization Platforms Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Labor Management Systems (LMS), Engineered Standards, Productivity Tracking, Workforce Planning, Task Interleaving & Warehouse Performance Analytics*
 **Last updated: August 2026**
